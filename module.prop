@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=systemless-unicode9-ios10-Emoji
+name=iOS10 Emoji
+version=version 3
+versionCode=3
+author=Jplwolters
+description=Systemlessly replace the original Emoji font with the iOS10 Emoji font. Clear the data from your keyboard app to view all the Emoji's.
 template=3
