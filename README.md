@@ -7,7 +7,7 @@ This module also changes the system font configuration so the font pack is loade
 **Note:** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6. Your mileage will vary.
 
 ## Preview of all the iOS10 emojis
-![All included](img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
+![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
 
 ## Prerequisites
 * Magisk v11.6 or higher
