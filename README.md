@@ -18,7 +18,7 @@ Also replaces the fonts.xml & fallback_fonts.xml that have a different font orde
 
 ## Links
 * [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-* [Support](https://github.com/jplwolters/Magisk-ios10-Emoji-font)
+* [Support](https://github.com/jplwolters/Magisk-ios10-Emoji-font/issues/new)
 * [Github](https://github.com/jplwolters/Magisk-ios10-Emoji-font)
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
