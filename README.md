@@ -2,9 +2,9 @@
 Changes the default emoji font to the iOS10 Emoji for various android devices.
 This module also changes the system font configuration so the font pack is loaded first.
 
-**Note:** Clear data of your keyboard app to enable ALL the Emoji fonts.
+**_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts.
 
-**Note:** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6. Your mileage will vary.
+**_Note:_** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6. Your mileage will vary.
 
 ## Preview of all the iOS10 emojis
 ![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
