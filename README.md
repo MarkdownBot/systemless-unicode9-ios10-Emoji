@@ -2,7 +2,7 @@
 Changes the default emoji font to the iOS10 Emoji for various android devices.
 This module also changes the system font configuration so the font pack is loaded first.
 
-**_Note:_** First time enabeling the module your device will not reboot. Hold power to reboot for the second time. 
+**_Note:_** First time enabeling the module your device will not reboot. Hold power to reboot for the second time. (looking for a fix)
 
 ## Preview of all the iOS10 emojis
 ![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
