@@ -4,6 +4,8 @@ This module also changes the system font configuration so the font pack is loade
 
 **_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
 
+**_Note:_** When you experience problems with fonts reboot for a second time.
+
 ## Preview of all the iOS10 emojis
 ![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
 All the included emojis.
