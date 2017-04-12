@@ -13,9 +13,9 @@ All the included emojis.
 
 ## How it works
 Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant. 
-Also replaces the fonts.xml & fallback_fonts.xml that have a different font order.
+Also modifies your original fonts.xml & fallback_fonts.xml file to update your font order.
 
-**_Note:_** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6. Your mileage may vary.
+**_Note:_** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6 and v12.0. Your mileage may vary.
 
 ## Links
 * [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
@@ -24,6 +24,11 @@ Also replaces the fonts.xml & fallback_fonts.xml that have a different font orde
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
 ## Change Log 
+#### version 5
+* Added  post-fs-data script
+* Dynamic fonts.xml
+* Dynamic fallback_fonts.xml
+
 #### version 4
 * Updated font file
 * Some typo's fixed
