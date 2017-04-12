@@ -2,7 +2,7 @@
 Changes the default emoji font to the iOS10 Emoji for various android devices.
 This module also changes the system font configuration so the font pack is loaded first.
 
-**_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
+**_Note:_** First time enabeling the module your device will not reboot. Hold power to reboot for the second time. 
 
 ## Preview of all the iOS10 emojis
 ![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
@@ -16,6 +16,8 @@ All the included emojis.
 ## How it works
 Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant. 
 Also modifies your original fonts.xml & fallback_fonts.xml file to update your font order.
+
+**_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
 
 ## Links
 * [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
