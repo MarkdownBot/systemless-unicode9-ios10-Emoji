@@ -8,7 +8,7 @@ This module also changes the system font configuration so the font pack is loade
 
 ## Preview of all the iOS10 emojis
 ![All included](http://img.pixady.com/2017/03/876208_emojipediaappleios.jpg)
-![Vieuw emoji](http://pixel.watch/zypr)
+![Vieuw emoji](https://s3.amazonaws.com/clickmeter.com/Web/static/pixel.gif)
 All the included emojis.
 
 ## Prerequisites
