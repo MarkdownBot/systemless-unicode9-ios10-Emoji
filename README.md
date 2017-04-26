@@ -21,7 +21,8 @@ Also modifies your original fonts.xml & fallback_fonts.xml file to update your f
 
 ## Links
 * [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
-* [Support](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font/issues/new)
+* [Discussion on XDA](https://forum.xda-developers.com/apps/magisk/magisk-ios10-emoji-font-t3596503)
+* [Bug report](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font/issues/new)
 * [Github](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font)
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
