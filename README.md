@@ -6,7 +6,7 @@ This module also changes the system font configuration so the font pack is loade
 
 **_Note:_** When you experience problems with fonts reboot for a second time.
 
-## Preview of all the iOS10 emojis
+## Preview of all the iOS10 emojis included in this module:
 ![All included](http://i.imgur.com/Scr2QQq.jpg)
 All the included emojis.
 
