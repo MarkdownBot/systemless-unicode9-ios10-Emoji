@@ -15,12 +15,22 @@ All the included emojis.
 
 **_Note:_** Tested on the Oneplus x running various android 6 and 7 roms with Magisk v11.6 and v12.0. Your mileage may vary.
 
+## How to download & install this module
+Inside [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk) go to the "Downloads" section. 
+You can find "iOS10 emoji font" listed their. 
+Click on the download button (down arrow) and then click on "install". 
+Wait a few seconds for the download & installing to finish.  
+After installing click on "reboot". Your device should reboot. 
+
+**_Note:_** When you experience problems with fonts not displaying correctly reboot for a second time. This should fix some fonts not displaying correctly.
+
 ## How it works
 Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant. 
-Also modifies your original fonts.xml & fallback_fonts.xml file to update your font order.
+Also modifies your original fonts.xml & fallback_fonts.xml files with the sed command to update your font order.
 
 ## Links
-* [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [Magisk forum](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+* [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk)
 * [Discussion on XDA](https://forum.xda-developers.com/apps/magisk/magisk-ios10-emoji-font-t3596503)
 * [Bug report](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font/issues/new)
 * [Github](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font)
