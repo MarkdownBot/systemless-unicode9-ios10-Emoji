@@ -24,6 +24,9 @@ After installing click on "reboot". Your device should reboot.
 
 **_Note:_** When you experience problems with fonts not displaying correctly reboot for a second time. This should fix some fonts not displaying correctly.
 
+**_Note:_** When you experience problems installing this module check out this [discussion on XDA](https://forum.xda-developers.com/apps/magisk/magisk-ios10-emoji-font-t3596503)
+
+
 ## How it works
 Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant. 
 Also modifies your original fonts.xml & fallback_fonts.xml files with the sed command to update your font order.
@@ -31,6 +34,7 @@ Also modifies your original fonts.xml & fallback_fonts.xml files with the sed co
 ## Links
 * [Magisk forum](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 * [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk)
+* [Manual zip download](https://drive.google.com/drive/folders/0BzOEHiXH09zFTnVKNjAtZUVlR3c?usp=sharing)
 * [Discussion on XDA](https://forum.xda-developers.com/apps/magisk/magisk-ios10-emoji-font-t3596503)
 * [Bug report](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font/issues/new)
 * [Github](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font)
