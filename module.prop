@@ -3,5 +3,5 @@ name=iOS10 Emoji
 version=version 5
 versionCode=5
 author=Jplwolters
-description=Systemlessly replace the original Emoji font with the iOS10 Emoji font. NOTE: Clear the data from your keyboard app to view all the Emoji's.
+description=Systemlessly replace the original Emoji font with the iOS10 Emoji font.
 template=3
