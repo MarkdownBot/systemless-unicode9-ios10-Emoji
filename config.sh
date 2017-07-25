@@ -77,9 +77,6 @@ REPLACE="
 set_permissions() {
   # Default permissions, don't remove them
   set_perm_recursive  $MODPATH  0  0  0755  0644
-  
-  # Run the "run_once.sh" script
-  sh $MODPATH/common/run_once.sh
 
   # Only some special files require specific permissions
   # The default permissions should be good enough for most cases
@@ -94,3 +91,10 @@ set_permissions() {
   # set_perm  $MODPATH/system/bin/dex2oat         0       2000    0755         u:object_r:dex2oat_exec:s0
   # set_perm  $MODPATH/system/lib/libart.so       0       0       0644
 }
+  # Run the "run_once.sh" script
+  sh $MODPATH/common/run_once.sh
+    ui_print "*******************************"
+  ui_print "systemless unicode9 ios10 icons"
+  ui_print "*******************************"
+  
+  
