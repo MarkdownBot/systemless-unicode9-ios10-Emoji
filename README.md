@@ -40,6 +40,10 @@ Also modifies your original fonts.xml & fallback_fonts.xml files with the sed co
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
 ## Change Log 
+#### version 7
+* Updated to support magisk 13+
+* Added run once script so no need for a second reboot.
+
 #### version 6
 * Saftey net breaks in magisk v13 beta so this is a temp fix by disabeling the post fs data script.
 * Disabled  post-fs-data script
