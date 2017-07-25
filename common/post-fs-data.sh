@@ -10,16 +10,16 @@ MODDIR=${0%/*}
 #cp /dev/magisk/mirror/system/etc/fallback_fonts.xml $MODDIR/system/etc
 
 #comments the orgiginal NotoColorEmoji.ttf line inside fonts.xml (removes the line)
-#sed -i 's/<font weight="400" style="normal">NotoColorEmoji.ttf<\/font>/<!-- <font weight="400" style="normal">NotoColorEmoji.ttf<\/font> -->/g' $MODDIR/system/etc/fonts.xml
+sed -i 's/<font weight="400" style="normal">NotoColorEmoji.ttf<\/font>/<!-- <font weight="400" style="normal">NotoColorEmoji.ttf<\/font> -->/g' $MODDIR/system/etc/fonts.xml
 
 #comments the orgiginal NotoColorEmoji.ttf line inside fallback_fonts.xml (removes the line)
-#sed -i 's/<file>NotoColorEmoji.ttf<\/file>/\<!-- <file>NotoColorEmoji.ttf<\/file> -->/g' $MODDIR/system/etc/fallback_fonts.xml
+sed -i 's/<file>NotoColorEmoji.ttf<\/file>/\<!-- <file>NotoColorEmoji.ttf<\/file> -->/g' $MODDIR/system/etc/fallback_fonts.xml
 
 #changes the order of the original fonts.xml file
-#sed -i 's/<!-- fallback fonts -->/<!-- fallback fonts edited by Magisk-ios10-Emoji-font module  --><family><font weight="400" style="normal">NotoColorEmoji.ttf<\/font><\/family>/g' $MODDIR/system/etc/fonts.xml
+sed -i 's/<!-- fallback fonts -->/<!-- fallback fonts edited by Magisk-ios10-Emoji-font module  --><family><font weight="400" style="normal">NotoColorEmoji.ttf<\/font><\/family>/g' $MODDIR/system/etc/fonts.xml
 
 #changes the order of the original fallback_fonts.xml file
-#sed -i 's/<familyset>/<!-- fonts.xml edited by Magisk-ios10-Emoji-font module  --><familyset><familyset><family><fileset><file>NotoColorEmoji.ttf<\/file><\/fileset><\/family>/g' $MODDIR/system/etc/fallback_fonts.xml
+sed -i 's/<familyset>/<!-- fonts.xml edited by Magisk-ios10-Emoji-font module  --><familyset><familyset><family><fileset><file>NotoColorEmoji.ttf<\/file><\/fileset><\/family>/g' $MODDIR/system/etc/fallback_fonts.xml
 
 # This script will be executed in post-fs-data mode
 # More info in the main Magisk thread
