@@ -11,3 +11,6 @@ cp /dev/magisk/mirror/system/etc/fonts.xml $MODDIR/system/etc
 
 #copy original fallback_fonts.xml to the MODDIR.
 cp /dev/magisk/mirror/system/etc/fallback_fonts.xml $MODDIR/system/etc
+
+  ui_print "copied xml files"
+  
