@@ -75,12 +75,12 @@ REPLACE="
 # NOTE: This part has to be adjusted to fit your own needs
 
 set_permissions() {
+  # Run the "run_once.sh" script
+  sh $MODPATH/common/run_once.sh
+  
   # Default permissions, don't remove them
   set_perm_recursive  $MODPATH  0  0  0755  0644
   
-  # Run the "run_once.sh" script
-  sh $MODPATH/common/run_once.sh
-
   # Only some special files require specific permissions
   # The default permissions should be good enough for most cases
 
