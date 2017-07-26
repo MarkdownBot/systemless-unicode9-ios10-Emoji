@@ -7,7 +7,7 @@ MODDIR=${0%/*}
 # It is called inside the `set_permissions` function in `config.sh`
 
 #copy original fonts.xml to the MODDIR.
-cp /dev/magisk/mirror/system/etc/fonts.xml $MODDIR/system/etc
+cp /system/etc/fonts.xml $MODDIR/system/etc
 
 #copy original fallback_fonts.xml to the MODDIR.
-cp /dev/magisk/mirror/system/etc/fallback_fonts.xml $MODDIR/system/etc
+cp /system/etc/fallback_fonts.xml $MODDIR/system/etc
