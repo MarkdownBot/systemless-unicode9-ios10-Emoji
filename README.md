@@ -38,6 +38,7 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant.
 #### version 7
 * New emoji font
 * Fix for samsung & HTC roms.
+* Template V4
 
 #### version 6
 * Saftey net breaks in magisk v13 beta so this is a temp fix by disabeling the post fs data script.
