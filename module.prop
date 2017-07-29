@@ -1,7 +1,7 @@
 id=systemless-unicode9-ios10-Emoji
 name=iOS10 Emoji
-version=version 7
-versionCode=7
+version=version 7.1
+versionCode=8
 author=Jplwolters
 description=Systemlessly replace the original Emoji font with the iOS10 Emoji font.
 template=4
