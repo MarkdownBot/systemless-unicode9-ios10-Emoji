@@ -3,6 +3,10 @@
 # This will make your scripts compatible even if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
+#copies the original NotoColorEmoji and renames it to HTC & samsong emoji font replacing dummy file to reduce download size.
+cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/HTC_ColorEmoji.ttf
+cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/SamsungColorEmoji.ttf
+
 #copy original fonts.xml to the MODDIR overriting the dummy file.
 #cp /dev/magisk/mirror/system/etc/fonts.xml $MODDIR/system/etc
 
