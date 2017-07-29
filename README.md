@@ -35,6 +35,9 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant.
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
 ## Change Log 
+#### version 7.1
+* oops.. fixed typo on the HTC font file :)
+
 #### version 7
 * New emoji font
 * Fix for samsung & HTC roms.
