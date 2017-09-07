@@ -36,6 +36,9 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant.
 
 ## Change Log 
 #### version 7.1
+* Updated for magisk v14.0
+
+#### version 7.1
 * oops.. fixed typo on the HTC font file :)
 
 #### version 7
