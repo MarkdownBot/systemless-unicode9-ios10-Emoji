@@ -4,4 +4,4 @@ version=version 7.3
 versionCode=10
 author=Jplwolters
 description=Systemlessly replace the original Emoji font with the iOS10 Emoji font.
-template=1410
+template=1400
