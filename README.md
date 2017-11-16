@@ -1,8 +1,8 @@
-# iOS10 Emoji
+# iOS11.1 Emoji
 Changes the default emoji font to the iOS10 Emoji for various android devices.
 This module also changes the system font configuration so the font pack is loaded first.
 
-## Preview of all the iOS10 emojis included in this module:
+## Preview of all the iOS11.1 emojis included in this module:
 ![All included](http://i.imgur.com/Scr2QQq.jpg)
 All the included emojis.
 
@@ -13,7 +13,7 @@ All the included emojis.
 
 ## How to download & install this module
 Inside [Magisk manager app](https://play.google.com/store/apps/details?id=com.topjohnwu.magisk) go to the "Downloads" section. 
-You can find "iOS10 emoji font" listed their. 
+You can find "iOS11.1 emoji font" listed their. 
 Click on the download button (down arrow) and then click on "install". 
 Wait a few seconds for the download & installing to finish.  
 After installing click on "reboot". Your device should reboot. 
@@ -23,7 +23,7 @@ After installing click on "reboot". Your device should reboot.
 **_Note:_** Clear data of your keyboard app to enable ALL the Emoji fonts inside your keyboard app.
 
 ## How it works
-Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant. 
+Replaces the default emoji font (NotoColorEmoji.tff) with the iOS11.1 variant. 
 
 ## Links
 * [Magisk forum](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
@@ -34,7 +34,10 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS10 variant.
 * [Github](https://github.com/Magisk-Modules-Repo/Magisk-ios10-Emoji-font)
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
-## Change Log 
+## Change Log
+#### version 7.4
+* Updated emoji font from [RickyBush_](https://forum.xda-developers.com/general/general/root-stock-emoji-fonts-ios-windows10-t3418801)
+
 #### version 7.3
 * Updated for magisk v14.0
 * Updated script
