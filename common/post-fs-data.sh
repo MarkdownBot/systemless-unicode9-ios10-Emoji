@@ -25,8 +25,8 @@ sed -i 's/.*Note that aliases must come after the fonts they reference.*/<!--  N
 #sed -i 's/<familyset>/<!-- fonts.xml edited by Magisk-ios10-Emoji-font module  --><familyset><familyset><family><fileset><file>NotoColorEmoji.ttf<\/file><\/fileset><\/family>/g' $MODDIR/system/etc/fallback_fonts.xml
 
 #copies the original NotoColorEmoji and renames it to HTC & samsong emoji font replacing dummy file to reduce download size.
-cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/hTC_ColorEmoji.ttf
-cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/SamsungColorEmoji.ttf
+#cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/hTC_ColorEmoji.ttf
+#cp $MODDIR/system/fonts/NotoColorEmoji.ttf $MODDIR/system/fonts/SamsungColorEmoji.ttf
 
 # This script will be executed in post-fs-data mode
 # More info in the main Magisk thread
