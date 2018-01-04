@@ -35,6 +35,9 @@ Replaces the default emoji font (NotoColorEmoji.tff) with the iOS11.1 variant.
 * [Donate](http://paypal.me/jeanpierrewolters/5)
 
 ## Change Log
+#### version 7.5
+* Updated to magisk template version 1500
+
 #### version 7.4
 * Updated emoji font (11.1) from [RickyBush_](https://forum.xda-developers.com/general/general/root-stock-emoji-fonts-ios-windows10-t3418801)
 
